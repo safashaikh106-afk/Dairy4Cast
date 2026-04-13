@@ -6,3 +6,4 @@ matplotlib
 twilio
 supabase
 plotly
+reportlab
